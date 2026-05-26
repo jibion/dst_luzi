@@ -1,0 +1,20 @@
+{
+  "name": "DST Luzi",
+  "short_name": "Luzi",
+  "description": "Dos idiomas, una familia. Ayuda con las tareas para familias de la Deutsche Schule Tenerife.",
+  "start_url": "/",
+  "display": "standalone",
+  "orientation": "portrait",
+  "categories": ["education"],
+  "lang": "es",
+  "theme_color": "#101218",
+  "background_color": "#101218",
+  "icons": [
+    {
+      "src": "/icon.svg",
+      "sizes": "any",
+      "type": "image/svg+xml",
+      "purpose": "any maskable"
+    }
+  ]
+}
